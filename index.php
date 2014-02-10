@@ -303,6 +303,33 @@ echo "</tr>";
     </blockquote>
 
 
+        <!-- Example 5-->
+
+        <hr><h2>Styling an image link with CSS</h2>
+        The following image links to this website demo. Thanks to the CSS box-shadow property, a:hover img is styled to show a drop shadow when the mouse hovers over the image.<br>
+
+
+        <h3>Image link with CSS Styling:</h3>
+        <style type="text/css">
+            a:hover img { box-shadow: 10px 10px 5px powderblue;}
+        </style>
+
+        <a href="index.php" ><img src="img/grassypath.jpg" /></a>
+
+        <h3>Source Code:</h3>
+        <blockquote>
+            <pre>&#60;style type="text/css">
+            a:hover img { box-shadow: 10px 10px 5px powderblue;}
+            &#60;/style>
+
+            &#60;a href="index.php" >&#60;img src="img/grassypath.jpg" />&#60;/a>
+            </pre>
+        </blockquote>
+
+        <!-- Conclusion-->
+        <h3>I hope you enjoyed my Digital Portfolio. 
+            <br>Contact me at <b>scott_vaudreuil&#64;my.uri.edu</b></h3>
+
 
         <!-- Footer-->
     <div id="footer"><hr>Powered by <a href="http://getbootstrap.com">Bootstrap</a>, 
