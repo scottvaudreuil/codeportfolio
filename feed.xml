@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+<atom:link href="http://rss.wunderground.com/auto/rss_full/RI/Providence.xml?units=english" rel="self" type="application/rss+xml" />
+<title>Providence, RI Weather from Weather Underground</title>
+	<link>http://www.wunderground.com/</link>
+	<description>Weather Underground RSS Feed for Providence, RI US</description>
+	<language>EN</language>
+        <generator>WU-RSS</generator>
+        <webMaster>support@wunderground.com (Wunderground Support)</webMaster>
+	<category>weather</category>
+        <image>
+                <url>http://icons.wunderground.com/graphics/smash/wunderTransparent.gif</url>
+                <link>http://www.wunderground.com/</link>
+                <title>Providence, RI Weather from Weather Underground</title> 
+        </image>
+        <pubDate>Sun, 9 Feb 2014 18:49:00 EST</pubDate>
+        <lastBuildDate>Sun, 9 Feb 2014 18:49:00 EST</lastBuildDate>
+	<ttl>5</ttl>
+<item>
+<guid isPermaLink="false">1391989750</guid>
+<title>Current Conditions : 29.4F, Overcast - 6:49 PM EST Feb. 9</title>
+<link>http://www.wunderground.com/US/RI/Providence.html</link>
+	<description><![CDATA[Temperature: 29.4&deg;F | Humidity: 71% | Pressure: 30.05in (                              Falling) | Conditions: Overcast | Wind Direction: South | Wind Speed: 0.0mph<img src="http://server.as5000.com/AS5000/adserver/image?ID=WUND-00070&C=0" width="0" height="0" border="0"/>]]>
+	</description>
+        <pubDate>Sun, 9 Feb 2014 18:49:00 EST</pubDate>
+</item>
+
+<item>
+<title>Sunday as of Feb. 9 4:00 PM EST</title>
+<link>http://www.wunderground.com/US/RI/Providence.html</link>    
+      <description><![CDATA[
+	Sunday - Mostly cloudy. High of 32F. Winds less than 5 mph. Chance of snow 30%.
+      ]]></description>
+      <pubDate>Sun, 09 Feb 2014 16:00:00 EST</pubDate>
+      <guid isPermaLink="false">1391979600-1</guid>
+</item>
+<item>
+<title>Sunday Night as of Feb. 9 4:00 PM EST</title>
+<link>http://www.wunderground.com/US/RI/Providence.html</link>    
+      <description><![CDATA[
+	Sunday Night - Overcast with snow in the evening, then mostly cloudy with snow. Low of 23F. Winds less than 5 mph. Chance of snow 90% with accumulations up to 2 in. possible.
+      ]]></description>
+      <pubDate>Sun, 09 Feb 2014 16:00:00 EST</pubDate>
+      <guid isPermaLink="false">1391979600-2</guid>
+</item>
+<item>
+<title>Monday as of Feb. 9 4:00 PM EST</title>
+<link>http://www.wunderground.com/US/RI/Providence.html</link>    
+      <description><![CDATA[
+	Monday - Partly cloudy. High of 28F with a windchill as low as 14F. Winds from the NNW at 5 to 15 mph.
+      ]]></description>
+      <pubDate>Sun, 09 Feb 2014 16:00:00 EST</pubDate>
+      <guid isPermaLink="false">1391979600-3</guid>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<guid isPermaLink="false">1391981400SPE</guid>
+<title>Special Statement - Expires: 12:00 AM EST</title>
+<link>http://www.wunderground.com/US/RI/Providence.html#SPE</link>
+	<description><![CDATA[Special Statement for Providence County in effect until 12:00 AM EST on February 10, 2014]]>
+	</description>
+        <pubDate>Sun, 9 Feb 2014 16:30:00 EST</pubDate>
+</item>
+
+
+</channel>
+
+</rss>
